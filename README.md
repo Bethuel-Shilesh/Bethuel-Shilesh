@@ -33,6 +33,29 @@
 
 ---
 
+# 🚀 Projects:
+
+### 🎵 Muse — Modern Music Player
+A full-stack music player inspired by Spotify with a vinyl animation UI and modern design.  
+🔹 Tech: Next.js, TypeScript, Tailwind, MongoDB  
+🔗 https://github.com/Bethuel-Shilesh/music-app  
+
+---
+
+### 🧺 Laundry Connect
+A smart laundry marketplace connecting customers with service providers, featuring booking, tracking, and admin dashboard.  
+🔹 Tech: FastAPI, PostgreSQL, React  
+🔗 https://github.com/Bethuel-Shilesh/laundry-connect  
+
+---
+
+### 👥 Berozgar Coders (Team Project)
+A collaborative project built with a team focusing on web-based solutions.  
+🔹 Role: Contributor  
+🔗 https://github.com/Bethuel-Shilesh/Berozgar-Coders  
+
+---
+
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bethuel-Shilesh&show_icons=true&theme=tokyonight&cache_seconds=1800)
@@ -40,11 +63,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bethuel-Shilesh&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bethuel-Shilesh&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
-
-## 📈 Activity Graph (Feels More Live 🔥)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bethuel-Shilesh&theme=tokyo-night)
 
 ---
 
